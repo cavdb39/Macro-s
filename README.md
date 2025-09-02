@@ -1,1 +1,5 @@
 # Macro-s
+
+if {
+    bal
+}
