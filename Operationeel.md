@@ -1,3 +1,4 @@
 # Werkwijze
 
-## Blablabla
+## To do
+- Live opereren via extensies
